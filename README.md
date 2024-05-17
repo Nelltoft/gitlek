@@ -14,3 +14,8 @@
 Check out my [instagram](https://www.instagram.com/bnelltoft/)!
 
 ![Best movie of 2024!](https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg "Dune: Part Two")
+
+| Movie           | Rating      |
+| --------------- | ----------- |
+| Dune: Part One  | 9           |
+| Dune: Part Two  | 10          |
