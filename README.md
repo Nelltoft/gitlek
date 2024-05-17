@@ -20,4 +20,7 @@ Check out my [instagram](https://www.instagram.com/bnelltoft/)!
 | Dune: Part One  | 9           |
 | Dune: Part Two  | 10          |
 
-###### Heading 6
+## Heading 6
+
+## Heading 9
+
